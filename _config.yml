@@ -1,0 +1,9 @@
+# Site settings
+title: 'Software' # Your Title
+tagline: 'Documentation' # A brief tagline for your site
+sidebar_image: ''
+
+# Build settings
+markdown: redcarpet
+highlighter: pygments
+baseurl: /docs/
